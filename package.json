@@ -10,7 +10,11 @@
     "node": "14.17.6"
   },
   "dependencies": {
+    "connect-mongo": "^4.6.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "mongoose": "^6.0.13",
     "socket.io": "^4.4.0"
   }
 }
